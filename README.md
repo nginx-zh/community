@@ -1,2 +1,1 @@
-# community
-Nginx 中文社区
+中国 Nginx 开源社区
